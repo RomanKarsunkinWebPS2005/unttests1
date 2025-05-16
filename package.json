@@ -2,8 +2,10 @@
   "name": "unttests1",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "lint": "eslint src --ext .js"
   },
   "repository": {
     "type": "git",
