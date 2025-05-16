@@ -1,0 +1,30 @@
+{
+  "name": "unttests1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKarsunkinWebPS2005/unttests1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKarsunkinWebPS2005/unttests1/issues"
+  },
+  "homepage": "https://github.com/RomanKarsunkinWebPS2005/unttests1#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-env": "^7.27.2",
+    "eslint": "^9.26.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.42.0"
+  }
+}
